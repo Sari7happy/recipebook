@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+html{
+    font-size:100%;
+}
+body{
+    color:#2b2a27;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    max-width: 100%;
+}
