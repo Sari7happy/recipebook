@@ -54,6 +54,18 @@ a{
 }
 .flex .recipe .ingredient-list dt{
     width: 85%;
-    border-bottom: dotted 1px 
-    ;
+    border-bottom: dotted 1px #ccc;
+    padding: 6px  0;
 }
+.flex .recipe .ingredient-list dd{
+    width: 15%;
+    border-bottom: dotted 1px #ccc;
+    padding: 6px 0;
+    text-align: right;
+}
+.flex .recipe .step-list li{
+    border-bottom: dotted 1px #ccc;
+    padding: 6px 0 ;
+    margin-left: 20px;
+}
+
